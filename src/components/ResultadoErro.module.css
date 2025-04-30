@@ -1,0 +1,17 @@
+.erroContainer {
+    width: 90%; 
+    max-width: 700px;
+    min-width: 280px; 
+    background-color: #D9D9D9;
+    padding: 1rem; 
+    margin: 0 auto; 
+    border-radius: 8px; 
+    box-sizing: border-box; 
+    text-align: center;
+}
+
+.erroContainer p {
+    color: #FF0000;
+    font-size: clamp(0.9rem, 3vw, 1.1rem); 
+    margin: 0; 
+}

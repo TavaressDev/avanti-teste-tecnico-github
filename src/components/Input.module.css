@@ -1,0 +1,41 @@
+/* Input.module.css */
+.inputContainer {
+    position: relative; 
+    display: inline-block; 
+    width: 80%; 
+    max-width: 400px; 
+  }
+  
+  .input {
+    width: 100%;
+    padding: 1rem 40px 1rem 1rem; 
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    
+  }
+
+  .input:focus {
+    outline: none;
+  }
+  .botao {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 50px; 
+    border: none;
+    background:#005CFF;
+    border-radius: 7px;
+    
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .botao:hover{
+    background:#1A6DFF;
+  }
+  .lupa{
+    width: 25px;
+    height: 25px;
+  }

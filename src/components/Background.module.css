@@ -1,0 +1,22 @@
+.wrapper {
+    position: relative;
+    width: 100%;
+    height: 100vh; 
+    overflow: hidden; 
+}
+
+.x {
+    position: absolute;
+    bottom: 0;  
+    left: 0;    
+    width: 300px;
+    height: auto;
+}
+
+.y {
+    position: absolute;
+    top: 0;     
+    right: -50px;   
+    width: 500px;
+    height: auto;
+}
