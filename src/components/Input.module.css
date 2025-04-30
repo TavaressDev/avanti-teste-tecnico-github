@@ -1,9 +1,8 @@
-/* Input.module.css */
 .inputContainer {
     position: relative; 
     display: inline-block; 
-    width: 80%; 
-    max-width: 400px; 
+    width: 90%; 
+    max-width: 500px; 
   }
   
   .input {

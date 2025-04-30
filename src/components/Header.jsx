@@ -1,10 +1,11 @@
-import logo from '../assets/titulo.svg'
+import logo from '../assets/logoGitHub.svg'
 import styles from './Header.module.css'
 
 export function Header(){
     return(
-        <header>
+        <header className={styles.headerContainer}>
             <img src={logo} alt="" />
+            <h1>Perfil <strong>GitHub</strong></h1>
             
         </header>
     )
