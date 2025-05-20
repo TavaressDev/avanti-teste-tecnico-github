@@ -14,7 +14,6 @@ https://github.com/user-attachments/assets/c25027c6-56c1-4c1c-8358-b0256a6393b8
   - Foto de perfil  
   - Biografia  
 - 🚨 **Tratamento de erros** para perfis não encontrados  
-- ⚡ **Efeitos visuais** e loading durante requisições  
 - 🎨 **Design responsivo** seguindo o layout do Figma  
 
 ## 🛠️ Tecnologias Utilizadas  
