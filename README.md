@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação React que permite buscar perfis do GitHub e exibir informações do usuário de forma elegante e responsiva.  
 
+
+https://github.com/user-attachments/assets/c25027c6-56c1-4c1c-8358-b0256a6393b8
+
+
 ## ✨ Funcionalidades  
 
 - 🔍 **Campo de busca** para pesquisar perfis do GitHub  
@@ -10,7 +14,6 @@ Este projeto é uma aplicação React que permite buscar perfis do GitHub e exib
   - Foto de perfil  
   - Biografia  
 - 🚨 **Tratamento de erros** para perfis não encontrados  
-- ⚡ **Efeitos visuais** e loading durante requisições  
 - 🎨 **Design responsivo** seguindo o layout do Figma  
 
 ## 🛠️ Tecnologias Utilizadas  
